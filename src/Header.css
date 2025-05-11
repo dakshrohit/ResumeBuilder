@@ -1,0 +1,40 @@
+*{
+    font-family: "Inter", sans-serif;
+    align-items: center;
+    
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.signinbtn{
+    margin-right:20px;
+
+}
+
+.head-right ul{
+    display: flex;
+    gap:20px;
+    
+    
+
+}
+
+ul{
+    list-style-type: none;
+    
+    
+}
+
+
+.content-right{
+    margin-left: 15px;
+}
+
+li{
+    cursor: pointer;
+}
+

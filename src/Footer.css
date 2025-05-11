@@ -1,0 +1,35 @@
+.footer{
+    display: flex;
+    justify-content: space-between;
+    /* border: 2px black solid; */
+
+    margin-top:600px;
+    text-align: center;
+    align-items: start;
+    font-size: 15px;
+
+
+
+}
+
+p:hover  {
+    transform: scale(1.1);  /* Increases size by 10% */
+    transition: transform 0.4s ease-in-out;
+    color: rgb(223, 244, 223);
+}
+
+
+
+.footer {
+    background: rgba(0, 0, 0, 0.1); 
+    backdrop-filter: blur(1px); 
+    padding-top:30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px; 
+    
+    color: #ffffff; 
+    
+}
+

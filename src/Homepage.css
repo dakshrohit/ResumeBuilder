@@ -1,0 +1,131 @@
+/* @font-face {
+    font-family: 'NeueMachina-Regular';
+    src: url('./assets/font/NeueMachina-Regular.otf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+*{
+    font-family: 'NeueMachina-Regular';
+} */
+
+
+.page{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    /* overflow: hidden; */
+    /* z-index: 1; */
+    /* overflow-y: auto; */
+
+
+
+    
+}
+
+
+.content{
+    
+   
+    /* position: absolute; */
+    /* position: fixed; */
+
+    
+
+    font-size: 3rem;
+    /* font-family: "Inter", sans-serif; */
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: italic;
+    z-index: 1;
+    background: none;
+    background-color: transparent;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 800px;
+    
+
+}
+
+.page.Aurora{
+    z-index: -1; 
+    /* position: absolute; */
+    /* background: transparent; */
+    top: 0;
+    left:0;
+
+}
+
+/* p{
+     margin-bottom: 700px; 
+     background: transparent; 
+} */
+
+
+/* .text.text{
+    background: none;
+    background-color: transparent;
+} */
+
+.shiny-button{
+    height: 7vh; 
+    width: 10vw; 
+    font-size: 40%;
+    padding-top:0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom:0px ;
+  
+    border-radius: 25px;
+    text-align: center ;
+    margin-top: 60px;
+    margin-left: 50% ;
+    margin-right: 50%;
+
+    
+    
+
+
+}
+
+span{
+    background: none;
+    background-color: transparent;
+    
+}
+
+
+.text{
+    background: none;
+    background-color: transparent;
+   color: #A6FFCB;
+   margin-bottom: 20px;
+
+   
+
+   
+
+
+   
+
+
+
+}
+
+
+
+
+
+
+.vel{
+    margin-top:800px;
+    
+
+    
+}

@@ -1,0 +1,20 @@
+.aurora-container {
+  /* width: 100%;
+  height: 100%;
+   */
+    position: fixed; /* Keeps the aurora background fixed at the top */
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh; /* Covers the full viewport */
+    z-index: -1; /* Sends it behind other elements */
+    /* overflow: hidden; */
+
+
+}
+
+body{
+  overflow-x: hidden;
+  
+}
+
